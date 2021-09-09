@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jeongman8549
 
-Researcher
-Engineer
+A researcher, an engineer
 
 <!---
 jeongman8549/jeongman8549 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
